@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["I Like You", "I Love You", "I Miss You", "Aku Sayang Kamu Her", "Hehehehe"],
+        strings: ["I Like You", "I Love You", "I Miss You", "Maukah Kamu Jadi Ayang Ku ?", "wkwkwkwk"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["I Like You", "I Love You", "I Miss You", "Aku Sayang Kamu Her", "Hehehehe"],
+        strings: ["I Like You", "I Love You", "I Miss You", "Maukah Kamu Mau Jadi Ayang ku ?", "wkwkwkwk"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
